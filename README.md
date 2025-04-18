@@ -33,7 +33,9 @@ A web application that helps users discover popular restaurants in Busan, view n
 
 | Home (District Selection) | Restaurant Map View |
 |---------------------------|---------------------|
-| ![home](screenshots/home.png) | ![map](screenshots/map.png) |
+|![스크린샷 2025-04-15 172247](https://github.com/user-attachments/assets/9760881a-356d-4b44-aa05-0ceade064f72)
+ | ![스크린샷 2025-04-15 172309](https://github.com/user-attachments/assets/97d5caef-ede1-4d7e-a762-ba9f3fcbafc5) |
+
 
 ---
 
